@@ -13,9 +13,6 @@ AVISO:
     e certifique-se de ter backups adequados antes de executar este script.
 */
 
-
-*/
-
 -- 1. Alterna para o banco de dados do sistema 'master' 
 -- (Necessário para poder alterar ou excluir outros bancos de dados)
 USE master;
